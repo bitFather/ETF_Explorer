@@ -1,0 +1,13 @@
+{
+    "gethPort": 8545, 
+    "blocks": [ {"start": 2000000, "end": "latest"}],
+    "quiet": false,
+    "terminateAtExistingDB": false,
+    "listenOnly": false,
+    "settings": {
+        "symbol": "ETF",
+        "name": "Ethereum Fast",
+        "title": "Ethereum Fast Block Explorer",
+        "author": "Elaine"
+    }
+}
